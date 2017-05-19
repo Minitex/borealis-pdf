@@ -1,4 +1,4 @@
-# react-openseadragon
+# borealis-pdf
 
 An **EXPERIMENTAL** React component.
 

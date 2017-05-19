@@ -45,7 +45,7 @@ if (build) {
         entry: './src/borealis-pdf.js',
         output: {
           path: path.join(__dirname, 'dist'),
-          filename: 'borealis-pdf.js',
+          filename: 'borealis-pdf-min.js',
           library: 'borealis-pdf',
           libraryTarget: 'umd',
           umdNamedDefine: true

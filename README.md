@@ -1,6 +1,6 @@
 # borealis-pdf
 
-An **EXPERIMENTAL** React component.
+An **EXPERIMENTAL** React component to display multiple PDFs along with a corresponding transcript for each PDF.
 
 To build the examples locally, run:
 

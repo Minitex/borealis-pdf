@@ -4,7 +4,6 @@ import {
   BrowserRouter as Router,
   Route,
 } from 'react-router-dom';
-import './index.css';
 import BorealisPDFViewer from './borealis-pdf-viewer';
 
 class BorealisPDFRoute extends React.Component {
